@@ -1,0 +1,20 @@
+{"questions":[{
+    
+    "question": "Ethiopia is located in Africa",
+            "options": ["true","false"],
+              "answer": 0,
+              "type":"true /false"
+    
+    },{
+    
+        "question": "What is the capital city of Ethiopia ",
+        "options": ["Bahir dar","Mekele","Jimma","Addis Abeba"],
+          "answer": 3,
+          "type":"multiple choice"
+        }
+  
+    ]
+    
+
+
+}
